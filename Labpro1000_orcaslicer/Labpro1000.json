@@ -1,0 +1,36 @@
+{
+	"filament_extruder_variant": [
+		"Direct Drive Standard"
+	],
+	"filament_flow_ratio": [
+		"2"
+	],
+	"filament_max_volumetric_speed": [
+		"85"
+	],
+	"filament_settings_id": [
+		"Labpro1000"
+	],
+	"from": "User",
+	"hot_plate_temp": [
+		"120"
+	],
+	"hot_plate_temp_initial_layer": [
+		"120"
+	],
+	"inherits": "Generic PLA template @LabWorks Labpro1000 1.0 nozzle",
+	"name": "Labpro1000",
+	"nozzle_temperature": [
+		"0"
+	],
+	"nozzle_temperature_initial_layer": [
+		"0"
+	],
+	"pellet_flow_coefficient": [
+		"0.415752"
+	],
+	"slow_down_for_layer_cooling": [
+		"0"
+	],
+	"version": "1.7.0.2"
+}

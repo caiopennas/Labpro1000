@@ -1,0 +1,39 @@
+{
+	"filament_diameter": [
+		"1.12838"
+	],
+	"filament_extruder_variant": [
+		"Direct Drive Standard"
+	],
+	"filament_max_volumetric_speed": [
+		"85"
+	],
+	"filament_settings_id": [
+		"PSAI"
+	],
+	"filament_type": [
+		"PSAI "
+	],
+	"from": "User",
+	"hot_plate_temp": [
+		"120"
+	],
+	"hot_plate_temp_initial_layer": [
+		"120"
+	],
+	"inherits": "Generic PLA template @LabWorks Labpro1000 1.0 nozzle",
+	"name": "PSAI",
+	"nozzle_temperature": [
+		"0"
+	],
+	"nozzle_temperature_initial_layer": [
+		"0"
+	],
+	"pellet_flow_coefficient": [
+		"1"
+	],
+	"slow_down_for_layer_cooling": [
+		"0"
+	],
+	"version": "1.7.0.2"
+}
